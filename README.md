@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Junior Mkhatshwa 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Data Science Portfolio - Junior Mkhatshwa
 
-<!---
-otersjunior/otersjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Junior Mkhatshwa 
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+
+
+- 📫 How to reach me: 
+- Email: otersjunior@gmail.com  
+LinkedIn: www.linkedin.com/in/junior-mkhatshwa-7028ba167 
+
